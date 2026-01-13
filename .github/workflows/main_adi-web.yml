@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'adi-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96A21EEF536C4C1EAC58D3BB28ACD40F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D0C5F59B24A45E387D42F52888158F5 }}
